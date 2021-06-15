@@ -1,0 +1,446 @@
+/*====CSS PAGE====*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+body{
+   font-family: 'Poppins', sans-serif;
+}
+
+nav{
+   font-size: 1.3em;
+}
+
+.overall-hero{
+   text-align: center;
+   margin-top: 125px;
+}
+
+.hero-header{
+   font-size: 7.4rem;
+}
+
+.hero-text{
+   font-size: 5.5rem;
+   margin-top: 55px;
+}
+
+.pink{
+   color: gray;
+}
+
+.hero-button{
+   margin-top: 35px;
+   font-size: 1.5em;
+   background-color: gray;
+   padding: 15px;
+   border-radius: 25px;
+   border-color: white;
+   color: black;
+}
+
+a{
+   text-decoration: none;
+   color: black;
+}
+
+a:hover{
+   color: black;
+}
+
+.jumbo-hero{
+   text-align: center;
+   margin-top: 175px;
+}
+
+.one{
+   font-size:10.5rem
+}
+
+.two{
+   font-size: 3.5rem;
+}
+
+.three{
+   font-size:1.1rem;
+}
+
+.four{
+   font-size:1.9rem;
+}
+
+.overall-container{
+   margin-top:55px;
+   margin-left: 95px;
+}
+
+.col-sm{
+   padding-top:25px;
+}
+
+.featurette{
+   font-size:2.5rem;
+   text-align: center;
+   margin-top:205px;
+}
+
+.overall-banner{
+   margin-top:55px;
+   text-align: center;
+}
+
+.aft-alban{
+   text-align: center;
+   margin-top:155px;
+}
+.overall-card{
+   text-align: center;
+   
+
+}
+.card-img-bottom{
+   height: 250px;
+   width: 900px;
+   margin-left: 320px;
+   margin-bottom: 55px
+}
+
+.gallery-btn{
+   text-align: center;
+}
+
+.javascript-header{
+   text-align: center;
+   margin-top: 95px;
+}
+
+.aft-javas{
+   text-align: center;
+   margin-top:45px;
+}
+
+.aft-javas-para{
+  text-align: center;
+  margin-bottom: 45px;
+}
+
+.programming-btn{
+   text-align: center;
+   margin-top: 35px;
+}
+
+.meMyself{
+   margin-top: 83px;
+}
+
+
+
+/*gallery page*/
+.gallery-big-body{
+   background-color: black;
+   color: white;
+}
+
+.gal-heading{
+   font-size: 3.5rem;
+   margin-top: 65px;
+   text-align: center;
+}
+
+.gal-btn-back{
+   text-align: center;
+}
+
+.galla{
+   text-align: center;
+   padding: 25px;
+   margin-top: 55px;
+   color: white;
+}
+
+.aft-header-gallery{
+   margin-top: 55px;
+   font-size: 2.5rem;
+   text-align: center;
+
+}
+
+.aft-para-gallery{
+   font-size:1.2rem;
+}
+
+.over-big-headandpara{
+   padding:35px;
+   margin-bottom:-35px;
+}
+
+.cap-pad{
+   padding-top: 25px;
+}
+
+.mockup-header{
+   text-align: center;
+}
+
+.mockup-image{
+   height: 750px;
+   width: 1000px;
+   margin-left: 225px;
+}
+
+.card23{
+   background-color: black;
+}
+
+/*testimonial*/
+.testimonial-head{
+   text-align: center;
+   margin-top:95px;
+}
+.pad-cap-testi{
+   padding-top: 25px;
+   margin-top: 10px;
+}
+.testi-overall{
+   margin-top: 55px;
+   padding:25px;
+   font-size: 1.1rem;
+}
+
+/*back to portfolio*/
+.animate-head{
+   text-align: center;
+   margin-top: 55px;
+}
+
+.animate-img-here{
+   margin-top: 25px;
+   text-align: center;
+}
+
+.aft-an{
+   margin-top: 55px;
+}
+
+.act-video{
+   margin-top:55px;
+   text-align: center;
+}
+
+.footy-foot{
+   color: white;
+   text-align: center;
+   margin-top: 100px;
+}
+
+/*contactPage*/
+.banner_big_man{
+   text-align: center;
+   font-size: 5.5rem;
+   margin-top: 108px;
+}
+
+.cally-call{
+   margin-top: 65px;
+   text-align: center;
+   margin-left: 595px;
+}
+
+.my-own{
+   font-size: 2.5rem;
+}
+
+/*===Adobe animate Page*/
+.BBK{
+   text-align: center;
+   margin-top:195px;
+}
+
+.NIKE{
+   text-align: center;
+   margin-top:155px;
+}
+
+.jumbo-hero1{
+   text-align: center;
+   margin-top: 215px;
+   margin-bottom: 305px;
+   font-size: 4.5rem;
+}
+
+.NIKE2{
+   text-align: center;
+    margin-top:155px;
+}
+
+.labber{
+   text-align: center;
+    margin-top:155px;
+}
+
+.yuxBtn{
+   margin-bottom: 35px;
+   
+  
+}
+
+.jumbo-hero2{
+   margin-top:75px;
+   text-align: center;
+}
+
+/*UIUX page*/
+.portfolio_showcase{
+   text-align: center;
+   margin-top :205px;
+}
+
+.pattyImg{
+   height: 650px;
+   width: 650px;
+   margin-top:-60px
+}
+
+.rage_Showcase{
+     text-align: center;
+        margin-top :85px;
+}
+
+.rearge{
+   height: 650px;
+   width: 650px;
+}
+
+.rageWrap{
+   padding:125px;
+}
+.UAB_Showcase{
+   text-align: center;
+   margin-top:35px;
+}
+.uabWrap{
+   padding:125px;
+}
+
+.miscali{
+   margin-top: 65px;
+}
+
+.omenInv{
+   text-align: center;
+   margin-top: 120px;
+}
+
+.omenWeb{
+   width: 760px;
+   height: 490px;
+}
+
+.OmenWrap{
+   padding: 120px;
+}
+@media only screen and (max-width: 1000px){
+   .card-img-bottom{
+   height:150px;
+   width: 450px;
+   margin-left: 15px;
+   margin-bottom: 55px
+   }
+
+   .media-animate-show{
+      height: 75px;
+      width: 450px;
+   }
+
+   .hero-header{
+   font-size: 6.4rem;
+}
+
+   .cally-call{
+   margin-top: 65px;
+   text-align: center;
+   margin-left: 95px;
+}
+
+  .hero-text{
+     font-size:3.5rem;
+     margin-top:155px;
+  }
+
+  .hero-header{
+     font-size: 4.5rem;
+  }
+
+  .display-5{
+     font-size: 1.1rem;
+  }
+
+  .three{
+     display: none;
+  }
+
+  .four{
+     font-size:0.8rem;
+  }
+
+  /*popular sites*/
+
+  .overall-container{
+     margin-left: 32px;
+  }
+
+  .card-img-bottom{
+     height: 150px;
+     width: 380px;
+     margin-left: 32px;
+  }
+
+  .media-animate-show{
+     height: 50px;
+     width: 320px;
+  }
+
+  /*gallery*/
+
+  .mockup-image{
+     height: 160px;
+     width: 240px;
+     margin-left: 67px;
+     margin-bottom: 55px;
+  }
+   
+  .testi-overall{
+     font-size: 0.8em;
+  }
+
+  .banner_big_man{
+     font-size: 1.8rem;
+  }
+
+  .cally-call{
+     margin-left:45px;
+  }
+
+  .footy-foot{
+     margin-top: 214px;
+  }
+
+
+   .brdcrmb_center{
+      display: none;
+   }
+
+   .pattyImg{
+      height: 350px;
+      width: 350px;
+   }
+   
+   .portfolio_showcase{
+   text-align: center;
+   margin-top : 95px;
+}
+
+.omenWeb{
+   height: 250px;
+   width: 350px;
+} 
+
+}
